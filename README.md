@@ -1,1 +1,1 @@
-# iust-deep-learning-assignments
+# IUST Deep Learning Course Assignments
